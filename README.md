@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+<div style="float: left;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="128" height="128"/></div> 
+# Quite a long title, potentially going over several lines
+
 <!--
 **afroj-alam-0786/afroj-alam-0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
