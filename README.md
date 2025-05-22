@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-
-<div style="float: left;"><img src="[https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png](https://www.bing.com/images/search?view=detailV2&ccid=TJO%2bCjFr&id=7776B6402378C7C7BD23FA497C031317EF0A7509&thid=OIP.TJO-CjFrXCs8_G_m2KEk5wHaE8&mediaurl=https%3a%2f%2ft-hub.mx%2fstorage%2fblog%2fQopQLVRlmihNPF4aWnSPKuCvV2ja4HuXTCsaM7Cw.jpeg&exph=2728&expw=4088&q=image+developer&simid=607991383954967533&FORM=IRPRST&ck=1A4F38C8EC01AAF34424CAA59FC5E443&selectedIndex=36&itb=0)" width="128" height="128"/></div> 
-# Quite a long title, potentially going over several lines
-
 <!--
 **afroj-alam-0786/afroj-alam-0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
